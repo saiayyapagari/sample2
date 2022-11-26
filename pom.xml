@@ -5,7 +5,7 @@
   <groupId>west</groupId>
   <artifactId>north</artifactId>
   <packaging>war</packaging>
-  <version>qwerty</version>
+  <version>qwerdy</version>
   <name>Bristleback Webapp archetype</name>
   <url>http://maven.apache.org</url>
 
